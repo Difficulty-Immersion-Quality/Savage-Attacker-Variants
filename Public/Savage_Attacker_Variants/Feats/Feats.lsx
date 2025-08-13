@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="Feats">
+        <node id="root">
+            <children>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Goon_SavageFister"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Goon_SavageFister"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="4a5740ef-21d7-4107-8037-d857c8daec99"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Goon_SavageShooter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Goon_SavageShooter"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="14ec2760-0dd7-4809-8dba-960c846094a0"/>
+                </node>
+                <node id="Feat">
+                    <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Goon_SavageCaster"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Goon_SavageCaster"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="Requirements" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="UUID" type="guid" value="73db79ab-d26c-4b47-9edb-ce1b90eaaa3a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
