@@ -4,6 +4,7 @@
     <region id="Feats">
         <node id="root">
             <children>
+                <!-- Savage Fister -->
                 <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageFister"/>
@@ -13,6 +14,7 @@
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="4a5740ef-21d7-4107-8037-d857c8daec99"/>
                 </node>
+                <!-- Savage Shooter -->
                 <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageShooter"/>
@@ -22,6 +24,7 @@
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="14ec2760-0dd7-4809-8dba-960c846094a0"/>
                 </node>
+                <!-- Savage Caster -->
                 <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageCaster"/>

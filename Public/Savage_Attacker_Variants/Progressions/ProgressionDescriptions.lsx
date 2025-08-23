@@ -5,7 +5,9 @@
         <node id="root">
             <children>
 				<node id="ProgressionDescription">
+                    <!-- When making unarmed melee attacks, you roll your damage dice twice and use the highest result. -->
                     <attribute id="Description" type="TranslatedString" handle="he18fbe81g3947g468cg8d8ag75e6d8ca4f00" version="1"/>
+                    <!-- Savage Fister -->
                     <attribute id="DisplayName" type="TranslatedString" handle="h85ef22b6gdcddg48d6gae90g99e06bfa24b0" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value=""/>
                     <attribute id="PassivePrototype" type="FixedString" value="Goon_SavageFister"/>
@@ -15,7 +17,9 @@
                     <attribute id="UUID" type="guid" value="092623f8-2333-4644-aec0-92f1f480531f"/>
                 </node>
 				<node id="ProgressionDescription">
+                    <!-- When making thrown or ranged weapon attacks, you roll your damage dice twice and use the highest result. -->
                     <attribute id="Description" type="TranslatedString" handle="h6caa01d2g5626g4adbgad8bgf42295d79ff8" version="1"/>
+                    <!-- Savage Shooter -->
                     <attribute id="DisplayName" type="TranslatedString" handle="h5fa2e591gcd9bg47e5g8612g783c52f9ee86" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value=""/>
                     <attribute id="PassivePrototype" type="FixedString" value="Goon_SavageShooter"/>
@@ -25,7 +29,9 @@
                     <attribute id="UUID" type="guid" value="70f27c8b-00d2-4b44-97d2-72aad724a8a1"/>
                 </node>
 				<node id="ProgressionDescription">
+                    <!-- When casting damaging spells, you roll your damage dice twice and use the highest result. -->
                     <attribute id="Description" type="TranslatedString" handle="hdeb5203ag0765g4fa9g9543gff5ac92ae8fd" version="1"/>
+                    <!-- Savage Caster -->
                     <attribute id="DisplayName" type="TranslatedString" handle="h7f904ca1gc941g45deg81e0g1a3182518dfc" version="1"/>
                     <attribute id="ExactMatch" type="FixedString" value=""/>
                     <attribute id="PassivePrototype" type="FixedString" value="Goon_SavageCaster"/>

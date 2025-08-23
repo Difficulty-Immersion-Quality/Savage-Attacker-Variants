@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
-	<content contentuid="h85ef22b6gdcddg48d6gae90g99e06bfa24b0" version="3">Savage Fister</content>
-	<content contentuid="he18fbe81g3947g468cg8d8ag75e6d8ca4f00" version="3">When making unarmed melee attacks, you roll your damage dice twice and use the highest result.</content>
-	<content contentuid="h5fa2e591gcd9bg47e5g8612g783c52f9ee86" version="3">Savage Shooter</content>
-	<content contentuid="h6caa01d2g5626g4adbgad8bgf42295d79ff8" version="3">When making thrown or ranged weapon attacks, you roll your damage dice twice and use the highest result.</content>
-	<content contentuid="h7f904ca1gc941g45deg81e0g1a3182518dfc" version="3">Savage Caster</content>	
-	<content contentuid="hdeb5203ag0765g4fa9g9543gff5ac92ae8fd" version="3">When making melee or ranged spell attacks, you roll your damage dice twice and use the highest result.</content>
+	<!-- "Goon_SavageFister" --> <content contentuid="h85ef22b6gdcddg48d6gae90g99e06bfa24b0" version="3">Savage Fister</content>
+	<!-- "Goon_SavageFister" --> <content contentuid="he18fbe81g3947g468cg8d8ag75e6d8ca4f00" version="3">When making unarmed melee attacks, you roll your damage dice twice and use the highest result.</content>
+	
+	<!-- "Goon_SavageShooter" --> <content contentuid="h5fa2e591gcd9bg47e5g8612g783c52f9ee86" version="3">Savage Shooter</content>
+	<!-- "Goon_SavageShooter" --> <content contentuid="h6caa01d2g5626g4adbgad8bgf42295d79ff8" version="3">When making thrown or ranged weapon attacks, you roll your damage dice twice and use the highest result.</content>
+
+	<!-- "Goon_SavageCaster" --> <content contentuid="h7f904ca1gc941g45deg81e0g1a3182518dfc" version="3">Savage Caster</content>	
+	<!-- "Goon_SavageCaster" --> <content contentuid="hdeb5203ag0765g4fa9g9543gff5ac92ae8fd" version="3">When casting damaging spells, you roll your damage dice twice and use the highest result.</content>
 </contentList>
