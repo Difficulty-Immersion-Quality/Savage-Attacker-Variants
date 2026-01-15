@@ -4,7 +4,18 @@
     <region id="FeatDescriptions">
         <node id="root">
             <children>
-               	<node id="FeatDescription">
+                <!-- <node id="FeatDescription"> -->
+                    <!-- When making melee weapon attacks, you roll your damage dice twice and use the highest result. -->
+                    <!-- <attribute id="Description" type="TranslatedString" handle="hb678b565g086fg415eg80dcg71905c52c9e5" version="4" /> -->
+                    <!-- You roll your damage dice twice and use the highest result. -->
+                    <!-- <attribute id="Description" type="TranslatedString" handle="h29a10bc6g6e98g4e24gb6a8gbbf6d1eebb0d" version="1" /> -->
+                    <!-- Savage Attacker -->
+                    <!-- <attribute id="DisplayName" type="TranslatedString" handle="h272c92eag97cag4e32g9659g1c947e14a32d" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="SavageAttacker" />
+                    <attribute id="FeatId" type="guid" value="e061a323-3430-4cff-88d3-5eae7a1779a4" />
+                    <attribute id="UUID" type="guid" value="5551971b-22e1-4107-afe0-28d568fb3446" />
+                </node> -->
+                <node id="FeatDescription">
                     <!-- When making unarmed melee attacks, you roll your damage dice twice and use the highest result. -->
                     <attribute id="Description" type="TranslatedString" handle="he18fbe81g3947g468cg8d8ag75e6d8ca4f00" version="1"/>
                     <!-- Savage Fister -->

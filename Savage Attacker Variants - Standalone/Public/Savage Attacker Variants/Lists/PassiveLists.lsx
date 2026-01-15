@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+            <attribute id="Name" type="FixedString" value="Savage Attacker Variants" />
+            <attribute id="Passives" type="LSString" value="SavageAttacker,Goon_SavageFister,Goon_SavageShooter,Goon_SavageCaster" />
+            <attribute id="UUID" type="guid" value="99080a89-6b95-468d-b851-0335e581cddf" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

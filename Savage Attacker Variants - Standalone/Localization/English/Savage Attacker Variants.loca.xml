@@ -8,4 +8,6 @@
 
 	<!-- "Goon_SavageCaster" --> <content contentuid="h7f904ca1gc941g45deg81e0g1a3182518dfc" version="3">Savage Caster</content>	
 	<!-- "Goon_SavageCaster" --> <content contentuid="hdeb5203ag0765g4fa9g9543gff5ac92ae8fd" version="3">When casting damaging spells, you roll your damage dice twice and use the highest result.</content>
+
+	<!-- "5551971b-22e1-4107-afe0-28d568fb3446" --> <content contentuid="h29a10bc6g6e98g4e24gb6a8gbbf6d1eebb0d" version="1">You roll your damage dice twice and use the highest result.</content>
 </contentList>

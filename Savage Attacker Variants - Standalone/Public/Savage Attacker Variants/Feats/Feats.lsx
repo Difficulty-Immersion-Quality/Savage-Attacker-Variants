@@ -4,6 +4,13 @@
     <region id="Feats">
         <node id="root">
             <children>
+                <!-- Savage Attacker -->
+                <!-- <node id="Feat"> -->
+                    <!-- <attribute id="Name" type="FixedString" value="SavageAttacker" /> -->
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="SavageAttacker" /> -->
+                    <!-- <attribute id="UUID" type="guid" value="e061a323-3430-4cff-88d3-5eae7a1779a4" />
+	                <attribute id="Selectors" type="LSString" value="SelectPassives(99080a89-6b95-468d-b851-0335e581cddf,1)" />
+                </node> -->
                 <!-- Savage Fister -->
                 <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>

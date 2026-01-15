@@ -4,8 +4,15 @@
     <region id="Feats">
         <node id="root">
             <children>
-                <!-- Savage Fister -->
+                <!-- Savage Attacker -->
                 <node id="Feat">
+                    <attribute id="Name" type="FixedString" value="SavageAttacker" />
+                    <!-- <attribute id="PassivesAdded" type="LSString" value="SavageAttacker" /> -->
+                    <attribute id="UUID" type="guid" value="e061a323-3430-4cff-88d3-5eae7a1779a4" />
+	                <attribute id="Selectors" type="LSString" value="SelectPassives(99080a89-6b95-468d-b851-0335e581cddf,1)" />
+                </node>
+                <!-- Savage Fister -->
+                <!-- <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageFister"/>
                     <attribute id="PassivesAdded" type="LSString" value="Goon_SavageFister"/>
@@ -13,9 +20,9 @@
                     <attribute id="Requirements" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="4a5740ef-21d7-4107-8037-d857c8daec99"/>
-                </node>
+                </node> -->
                 <!-- Savage Shooter -->
-                <node id="Feat">
+                <!-- <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageShooter"/>
                     <attribute id="PassivesAdded" type="LSString" value="Goon_SavageShooter"/>
@@ -23,9 +30,9 @@
                     <attribute id="Requirements" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="14ec2760-0dd7-4809-8dba-960c846094a0"/>
-                </node>
+                </node> -->
                 <!-- Savage Caster -->
-                <node id="Feat">
+                <!-- <node id="Feat">
                     <attribute id="CanBeTakenMultipleTimes" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="Goon_SavageCaster"/>
                     <attribute id="PassivesAdded" type="LSString" value="Goon_SavageCaster"/>
@@ -33,7 +40,7 @@
                     <attribute id="Requirements" type="LSString" value=""/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="73db79ab-d26c-4b47-9edb-ce1b90eaaa3a"/>
-                </node>
+                </node> -->
             </children>
         </node>
     </region>
